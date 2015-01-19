@@ -18,7 +18,7 @@
 /**
  * Smarty plugin
  * -------------------------------------------------------------
- * File: function.getobject.php
+ * File: function.psgetobject.php
  * Type: function
  * Name: getPsObject
  * Purpose: Output core class object
