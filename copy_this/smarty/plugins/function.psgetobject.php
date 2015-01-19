@@ -5,6 +5,10 @@
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
+ * Thanks to D3 for source code snippet.
+ * We created a official OXID eShop CE pull reqeust, but was not merged
+ * and closed :-( https://github.com/OXID-eSales/oxideshop_ce/pull/177
+ * 
  * @copyright (c) Proud Sourcing GmbH | 2015
  * @link www.proudcommerce.com
  * @package psGetObject
